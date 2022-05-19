@@ -1,0 +1,5 @@
+{
+  "require": {
+    "ochi51/cybozu-http": "^1.4"
+  }
+}

@@ -1,0 +1,27 @@
+#wpcontent {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#wpbody-content > .wrap {
+  display: flex;
+  flex-direction: column;
+}
+
+#init_form {
+  max-width: 600px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: start;
+  gap: 10px;
+}
+
+table.widefat tr {
+  border-bottom: 1px solid #c3c4c7;
+}
+
+table.widefat tr:last-child {
+  border: none;
+}
